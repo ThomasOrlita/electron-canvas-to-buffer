@@ -1,5 +1,5 @@
 {
-  "name": "electron-canvas-to-buffer",
+  "name": "electron-canvas-to-buffer-fixed",
   "version": "2.0.0",
   "description": "in Electron, turns a Canvas into a Buffer",
   "main": "index.js",
